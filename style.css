@@ -1,0 +1,24 @@
+
+.img{
+    width: 100px;
+    height: 150px;
+}
+.text{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.main{
+    background-color: aqua;
+    margin-top: 40px;
+    padding: 20px;
+    width: 300px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 3px solid gray;
+    
+}
+.border-blue{
+    border: none;
+}
